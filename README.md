@@ -1,2 +1,2 @@
 # haberportali-database
-a postgresql database project of mine
+a postgresql database project of mine.
