@@ -1,2 +1,2 @@
 # haberportali-database
-a postgresql project for my database management and modeling course
+my postgresql project for 'Database Management and Modeling' course.
